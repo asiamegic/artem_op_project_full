@@ -1,4 +1,4 @@
-The project of testing api and ui on service OpenProject installed on a local computer based on docker virtualization.
+The project of testing api and ui on service OpenProject installed on a local computer based by docker virtualization.
 
 
 
