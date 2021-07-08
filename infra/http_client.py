@@ -22,7 +22,7 @@ class HttpClient:
         auth = http_command['auth']
         body = http_command['body']
 
-        return requests.post(url, auth=auth, headers=headers , body=body)
+        return requests.post(url, auth=auth, headers=headers , json=body)
 
     def patch(self, http_command):
         # patch
